@@ -7,4 +7,4 @@ software that controls home systems
 A powerful programming logic controller. The brain of a whole system.
 
 ### PC
-Personal computer that runs HomeAssistant instance.
+A personal computer that runs HomeAssistant instance.
